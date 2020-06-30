@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "a28556f1f8211798ad2ecf2774df6d5c"
+    "revision": "2832ee65abc9dc11256bca7db40cbd5e"
   },
   {
     "url": "assets/css/0.styles.d682f510.css",
@@ -70,8 +70,8 @@ self.__precacheManifest = [
     "revision": "3f2610659e8d0fd742715dbb5807da69"
   },
   {
-    "url": "assets/js/107.730f6e5f.js",
-    "revision": "232424a801a0fd43667915aebd6868c4"
+    "url": "assets/js/107.9979157d.js",
+    "revision": "1f895356dd460303283af8b2469873ce"
   },
   {
     "url": "assets/js/108.4147ea2f.js",
@@ -106,112 +106,112 @@ self.__precacheManifest = [
     "revision": "6d775c056ea2842069309d001ca4b729"
   },
   {
-    "url": "assets/js/115.5610a764.js",
-    "revision": "40f330491adf441e7df0083044cb0e71"
+    "url": "assets/js/115.4c59425e.js",
+    "revision": "48b65c019feb6b4695aa1956407288ab"
   },
   {
     "url": "assets/js/116.b61d4fe2.js",
     "revision": "f6a26533153362c827569861db11fccd"
   },
   {
-    "url": "assets/js/117.c55e455d.js",
-    "revision": "a323cff90cb31b029c1ec19ca4376f1d"
+    "url": "assets/js/117.2a36e78d.js",
+    "revision": "28a1871a2cb107d69b3492180fc55b4d"
   },
   {
-    "url": "assets/js/118.afb4a64b.js",
-    "revision": "d6cf57dfa682a632d571dfb5ac3e36eb"
+    "url": "assets/js/118.1aca029b.js",
+    "revision": "08071d1d288a95de78029163f5aaa6fa"
   },
   {
-    "url": "assets/js/119.ed387167.js",
-    "revision": "bb12ff5a4ced3e0e06c3c5ccbd01ac17"
+    "url": "assets/js/119.12bb097c.js",
+    "revision": "3d5ced23526e44dbea3f7c282ef22e3d"
   },
   {
     "url": "assets/js/12.55f13ebd.js",
     "revision": "4758b0953df4e09411669eec844aa60c"
   },
   {
-    "url": "assets/js/120.380166f7.js",
-    "revision": "5ed6ef3aff5ee705a5bc634ccbfee42c"
+    "url": "assets/js/120.ac0da3f9.js",
+    "revision": "f44577d70c4479e5a7f7cbab8a21c9ff"
   },
   {
-    "url": "assets/js/121.e6db2ea2.js",
-    "revision": "e84f8189d32b0bb61efa7e9f997ba38d"
+    "url": "assets/js/121.704eec99.js",
+    "revision": "ec19867d260dcfc551407d6c8bea9cd5"
   },
   {
-    "url": "assets/js/122.bb6744d3.js",
-    "revision": "a41bbd7008c064da8d8fbc294ddf2c31"
+    "url": "assets/js/122.44d279a1.js",
+    "revision": "43a92808e0f6f0bf7551690f9bf85481"
   },
   {
-    "url": "assets/js/123.f1358e85.js",
-    "revision": "5f8cea79dd5274f2b7a5bb11e91aa336"
+    "url": "assets/js/123.b20d1c1f.js",
+    "revision": "603b5dd78b5ded0367d129149185e9d9"
   },
   {
-    "url": "assets/js/124.9474f795.js",
-    "revision": "4f08fe52c7bb17933ef748a254055ed4"
+    "url": "assets/js/124.543a920c.js",
+    "revision": "4afbc4db5338badedc078fced6ae7c41"
   },
   {
-    "url": "assets/js/125.5662cc22.js",
-    "revision": "2db1eb6da16d67033a085ce32de42ece"
+    "url": "assets/js/125.c0253e73.js",
+    "revision": "1cf509d0156c1b85cef501248190a457"
   },
   {
-    "url": "assets/js/126.d8bf0cc9.js",
-    "revision": "fd9111713fb676206594b4294d33aad4"
+    "url": "assets/js/126.90478928.js",
+    "revision": "501d8e9e1f8828a82c263bc890cf10ea"
   },
   {
-    "url": "assets/js/127.b73798a8.js",
-    "revision": "d5cdc7a223e7fe11aed1434816c05941"
+    "url": "assets/js/127.0a3e8086.js",
+    "revision": "61747618ba0de4eb33f09ed101e0a0cd"
   },
   {
-    "url": "assets/js/128.67708e28.js",
-    "revision": "f965eaabcee8f1f98f4f6595fd9ade1b"
+    "url": "assets/js/128.1036b99d.js",
+    "revision": "550f45f47b67cc5ca8aff3d494176ff6"
   },
   {
-    "url": "assets/js/129.2e1f6c1f.js",
-    "revision": "b138c11291cba1583a890108584aad63"
+    "url": "assets/js/129.c5321116.js",
+    "revision": "41d1232de60db0661cc30f297f954eef"
   },
   {
     "url": "assets/js/13.51b1556f.js",
     "revision": "4766606cce3f8f24c6ff10f552b21fdf"
   },
   {
-    "url": "assets/js/130.c1683bd4.js",
-    "revision": "68f0e7465dc47acb26e834ba7993242d"
+    "url": "assets/js/130.a6895380.js",
+    "revision": "fcd2e5bda442fdc603f4f15b387f9f40"
   },
   {
-    "url": "assets/js/131.3d25ac05.js",
-    "revision": "5d795fe31289487232e74a828cded0b1"
+    "url": "assets/js/131.198325f2.js",
+    "revision": "085c6a242fa06617bb8aa99a1a7ec017"
   },
   {
     "url": "assets/js/132.eb6fb8d2.js",
     "revision": "76391c93cfe62ba19a69c1f27b0ad879"
   },
   {
-    "url": "assets/js/133.4374d1b6.js",
-    "revision": "d82afada8294cc3dc9d95357bb5da249"
+    "url": "assets/js/133.025cc1ea.js",
+    "revision": "94529d0f3b0d24fe1d65a147c3637414"
   },
   {
-    "url": "assets/js/134.fa586347.js",
-    "revision": "8877596ecfa6515a77c078ed2f86f7a2"
+    "url": "assets/js/134.27a006b4.js",
+    "revision": "34983df31c551874ceee533522800b0c"
   },
   {
-    "url": "assets/js/135.e2348a02.js",
-    "revision": "829c8a7e36610186cdefdd8c6e676bc3"
+    "url": "assets/js/135.dc44fea4.js",
+    "revision": "e365d41027bdc7114dfbe0ba8e47a2ee"
   },
   {
-    "url": "assets/js/136.f2e2a358.js",
-    "revision": "5de398c4c13393a2763d96582ea32d74"
+    "url": "assets/js/136.c21a6797.js",
+    "revision": "cc92f6af98890bdcd58568d11ba6bc53"
   },
   {
-    "url": "assets/js/137.c713c48d.js",
-    "revision": "5bc8f36d5a9c10880fe9314aacf3e21d"
+    "url": "assets/js/137.a4d21ecd.js",
+    "revision": "92555451e6180eed629a9f750493ab6c"
   },
   {
-    "url": "assets/js/138.a3a1432f.js",
-    "revision": "7beafbea70f89297690613df3c35ca82"
+    "url": "assets/js/138.9351df7c.js",
+    "revision": "e7fcf320c0fa9e67a7703f865cbcfb22"
   },
   {
-    "url": "assets/js/139.1af8efdd.js",
-    "revision": "5b8fc1e1f4b8519b943790c6f1131947"
+    "url": "assets/js/139.f0146e17.js",
+    "revision": "73a0352f328214e8b7bba11439ccde8a"
   },
   {
     "url": "assets/js/14.7f080133.js",
@@ -222,24 +222,24 @@ self.__precacheManifest = [
     "revision": "5e1d9d8558a34d95c9de4d87deebad26"
   },
   {
-    "url": "assets/js/141.8225e923.js",
-    "revision": "27eb932a8092c1ddce95b1c3eb3bae87"
+    "url": "assets/js/141.b612569b.js",
+    "revision": "c44bb36e125d236ec378c85c03144613"
   },
   {
-    "url": "assets/js/142.ea880f49.js",
-    "revision": "4929c45a95cd2c8b83c8fe6bb59188d3"
+    "url": "assets/js/142.3525878f.js",
+    "revision": "9cc3e1c74ad23f76640c617f64f495bf"
   },
   {
     "url": "assets/js/143.88d024bf.js",
     "revision": "f3ce9eedea60a202234df5944414779f"
   },
   {
-    "url": "assets/js/144.018438b2.js",
-    "revision": "c88b7d3f99ce88582b3e424dc77a0281"
+    "url": "assets/js/144.f146d1e6.js",
+    "revision": "9a7bcf287e0091b7da166d0f9d4ba867"
   },
   {
-    "url": "assets/js/145.017565fd.js",
-    "revision": "16a3c5318721ed3e16c94336520cb8e3"
+    "url": "assets/js/145.c66c4387.js",
+    "revision": "fb4125e84ac570873289553267ab2b4a"
   },
   {
     "url": "assets/js/146.7591111d.js",
@@ -354,52 +354,52 @@ self.__precacheManifest = [
     "revision": "dc43387436255e2fd5dc0a5e97ba97ad"
   },
   {
-    "url": "assets/js/32.3abd7080.js",
-    "revision": "7a264af427749f630423835142faa8cc"
+    "url": "assets/js/32.d49daad9.js",
+    "revision": "731cd4248ad337a362e03477e7114442"
   },
   {
-    "url": "assets/js/33.f26940d3.js",
-    "revision": "7f51503e7aa638c3e9167e54ac2f6548"
+    "url": "assets/js/33.7cb9a475.js",
+    "revision": "ca43748b581d32ec25cb6cce5ec84d07"
   },
   {
-    "url": "assets/js/34.7630ed4c.js",
-    "revision": "92408fa9646f499c89af143601747b78"
+    "url": "assets/js/34.f812a4b9.js",
+    "revision": "0c7564e256e2dcf689b3bd555366c68c"
   },
   {
-    "url": "assets/js/35.efdeb6be.js",
-    "revision": "41adbb821ae95ac361818f5a1f3397e5"
+    "url": "assets/js/35.d19a06ea.js",
+    "revision": "4b77fdd82ed770de3f9fee7d12b7d482"
   },
   {
-    "url": "assets/js/36.91553992.js",
-    "revision": "4dd27cc67b57916b7ee83aed297379b0"
+    "url": "assets/js/36.f32e7078.js",
+    "revision": "0729a97fcf64c49b40db5b6881971653"
   },
   {
-    "url": "assets/js/37.498d0672.js",
-    "revision": "83cfe088120fa56bc015dec9581cdf07"
+    "url": "assets/js/37.8caa4166.js",
+    "revision": "772422c0e30a986a8e31eeabdc72fd3f"
   },
   {
-    "url": "assets/js/38.6036a43d.js",
-    "revision": "8028681e85482c1ee0c279558a7053de"
+    "url": "assets/js/38.e1ac9669.js",
+    "revision": "fbcb2d935dbaf68b47722f7f421ee04e"
   },
   {
-    "url": "assets/js/39.f293a885.js",
-    "revision": "72ad4b5611adfe67b76bfeecede17c21"
+    "url": "assets/js/39.5ddd6244.js",
+    "revision": "89741d90a936fd21ddad66830819a3bb"
   },
   {
     "url": "assets/js/4.e2003940.js",
     "revision": "24bf4072861ba4169ec761158abebbd8"
   },
   {
-    "url": "assets/js/40.d33640d6.js",
-    "revision": "ca5fd2a988ce37cb9e96c8974619fdf7"
+    "url": "assets/js/40.13494418.js",
+    "revision": "524ee69b8fb1b4ba31c9244852bbbd1c"
   },
   {
-    "url": "assets/js/41.1d78baf8.js",
-    "revision": "4ed7f554750ab17466819b72cc28630f"
+    "url": "assets/js/41.5c4ff5ff.js",
+    "revision": "8e8cb6960f5e66973b065883ec3d45a3"
   },
   {
-    "url": "assets/js/42.82ea44ad.js",
-    "revision": "91c508c97c318c445e52ec2ba4d22eb8"
+    "url": "assets/js/42.0840bb54.js",
+    "revision": "91495f6de6058a297a4e9bc5c4eb9d15"
   },
   {
     "url": "assets/js/43.7b4df507.js",
@@ -482,12 +482,12 @@ self.__precacheManifest = [
     "revision": "9233f881d8b46f35485e8c72457e93b7"
   },
   {
-    "url": "assets/js/61.c68b22a6.js",
-    "revision": "b2200543845877221161e8ca63aa04d6"
+    "url": "assets/js/61.10b8dab0.js",
+    "revision": "8a0f1b04c4b22b6f362740aaed5fe6a5"
   },
   {
-    "url": "assets/js/62.b73c1e4c.js",
-    "revision": "d8247c6b9e26728f1d4f90919e9a6298"
+    "url": "assets/js/62.1e452d38.js",
+    "revision": "8c6c6aee3d97cfa9ad99b48a04dfa235"
   },
   {
     "url": "assets/js/63.5d8417b7.js",
@@ -530,12 +530,12 @@ self.__precacheManifest = [
     "revision": "c438d6e2472c59ebca1968d918a0c403"
   },
   {
-    "url": "assets/js/72.e6852494.js",
-    "revision": "1e521e91f579b1b79d685e0d72233fcf"
+    "url": "assets/js/72.ab28df61.js",
+    "revision": "5dc786185ecfda9a247b448d67f34d45"
   },
   {
-    "url": "assets/js/73.92cf3a62.js",
-    "revision": "c87f227665907981cfa4c6bba4e3a49a"
+    "url": "assets/js/73.4679eb5c.js",
+    "revision": "fdcf227071365c04a7edf2277429a9cf"
   },
   {
     "url": "assets/js/74.92662fd8.js",
@@ -562,8 +562,8 @@ self.__precacheManifest = [
     "revision": "870b41e7f346717600d1322fee6f4289"
   },
   {
-    "url": "assets/js/8.54b7e644.js",
-    "revision": "f1ccd8630e542290bd8ea31989901454"
+    "url": "assets/js/8.d3704bf0.js",
+    "revision": "2425fce0b747cb0e59d73584cd07f638"
   },
   {
     "url": "assets/js/80.b5bbaddc.js",
@@ -594,20 +594,20 @@ self.__precacheManifest = [
     "revision": "a1b736a931463eaa6b52d4a807443dda"
   },
   {
-    "url": "assets/js/87.64f2839d.js",
-    "revision": "c43132fe9b20d67378a49a5634997c71"
+    "url": "assets/js/87.1038f6eb.js",
+    "revision": "4fd4b3304ebc5da1a4ca6e9c767cae0e"
   },
   {
-    "url": "assets/js/88.3ba7926b.js",
-    "revision": "48e6ee54eb3c82b3ee2e24525f5a6fbc"
+    "url": "assets/js/88.d22805f0.js",
+    "revision": "23c55eb19173a52ca24fe0bcfc55c10c"
   },
   {
     "url": "assets/js/89.ebaec21e.js",
     "revision": "29fb86233382a00debeb1b13305094cd"
   },
   {
-    "url": "assets/js/9.335905d7.js",
-    "revision": "1b84161947cde732340f7717983d0ed2"
+    "url": "assets/js/9.1d367050.js",
+    "revision": "f3085139490e63bec5fc9144ae0d51a6"
   },
   {
     "url": "assets/js/90.e7a30df5.js",
@@ -650,12 +650,12 @@ self.__precacheManifest = [
     "revision": "9756834356112e1872fbd9bc580c6288"
   },
   {
-    "url": "assets/js/app.ef8e27ac.js",
-    "revision": "b64483739c5e6bdab3589d8038ebe511"
+    "url": "assets/js/app.9fb76dd1.js",
+    "revision": "5bedb4452bc57fbf4db3e8f08d3d3259"
   },
   {
     "url": "Collection.html",
-    "revision": "0d9394bef260c49b7f6cb4ce77ad89c6"
+    "revision": "c0f8d93f064c0fbb5ca0bfb85d642ef7"
   },
   {
     "url": "icons/apple-touch-icon.png",
@@ -711,587 +711,587 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "b940778b042dd9f7e836d96371620e2e"
+    "revision": "ce1096058ab3c0be361dd17e43c7d37d"
   },
   {
     "url": "post/Arduino/ATTiny85调试记录.html",
-    "revision": "df046e11e3594a3159c2a7187be4ee11"
+    "revision": "c2145cc3d80afa4262f6e6c9d1ead921"
   },
   {
     "url": "post/Arduino/T-Clock桌上小钟.html",
-    "revision": "ffe60fccec291413339756e03f1b0cf7"
+    "revision": "2d1eb08aa7243873871bd91751a31b04"
   },
   {
     "url": "post/Arduino/一个舵机的自我修养.html",
-    "revision": "6bba3cf7c48c35c1dd28989bb1a430be"
+    "revision": "c209c87d85bc1c9351882e0e8f236614"
   },
   {
     "url": "post/Arduino/小车游华广-比赛.html",
-    "revision": "a3363cd79594ba0382d5834c17ad5fc8"
+    "revision": "fab1bacf3400c6d488f9b8188fa29b85"
   },
   {
     "url": "post/Arduino/麦昆小车-测评.html",
-    "revision": "2ae72009c858ac5606ff0ac72b42d567"
+    "revision": "86faacc11bf48f17cac5a6ff054ab36a"
   },
   {
     "url": "post/Arduino/麦轮小车.html",
-    "revision": "ddbf2e9ac988dc772b9c428178ea6945"
+    "revision": "cadde815c3b62f76bac2df5529ad5d4b"
   },
   {
     "url": "post/Git&GitHub/Git学习笔记.html",
-    "revision": "2955a9c02adba554cee7fea5399e639b"
+    "revision": "6aa784bd7fde8b82b19c3584887ba043"
   },
   {
     "url": "post/Git&GitHub/Git配置代理.html",
-    "revision": "94b92757a27794e67c93cfb3fe4b34b0"
+    "revision": "c37870384089de0d14d9cf9722c8b667"
   },
   {
     "url": "post/Git&GitHub/删除GitHub仓库中某个文件夹.html",
-    "revision": "07c9d8950a7f0e0bb6a5de69562cb3bc"
+    "revision": "8a6edd4ba891a03700c80652d5c9af2e"
   },
   {
     "url": "post/Python/Python学习笔记.html",
-    "revision": "d3e0c846d084888aff666b8b86fb3f5d"
+    "revision": "7b7bb2f859a81532eaa7063c3bca5362"
   },
   {
     "url": "post/STM32/Doxygen注释规范.html",
-    "revision": "b3f55d2af6dd116f52b2009d96863aa0"
+    "revision": "6d43645285c75429721cf456d49c3868"
   },
   {
     "url": "post/STM32/STM32麦轮小车.html",
-    "revision": "7add3eba65736c45e58d67b8a0f36ec0"
+    "revision": "ca775af289c7a497048aac148164f28b"
   },
   {
     "url": "post/unlist/AltiumDesigner安装库文件.html",
-    "revision": "4a3b8150c1e0210eb134193dba7a5438"
+    "revision": "72ddbb3ecaae01df145142497f5abdbd"
   },
   {
     "url": "post/unlist/T-Clock桌上小钟（旧）.html",
-    "revision": "0d372818b1c853243295dbcdeebaa657"
+    "revision": "4593da85d3f09208258b832fd7fd5085"
   },
   {
     "url": "post/unlist/WeChat.html",
-    "revision": "c2962b6de3dbd5d6995e4ef512a4bd40"
+    "revision": "72684f34ae9fb4d6a6cf7b1910436743"
   },
   {
     "url": "post/unlist/从SnapEDA导入库文件.html",
-    "revision": "3de4331dc3ddac19bdc85567e74da7e3"
+    "revision": "f58444960ceeb049d4c2dacbdaf5ee1f"
   },
   {
     "url": "post/产品经理/中台的概念.html",
-    "revision": "649b3ca4f240cc824b889b4408442c99"
+    "revision": "a94bc80dd734fd8027617f0a6782b7a8"
   },
   {
     "url": "post/产品经理/产品经理的日常.html",
-    "revision": "82c24c6bb60e32389dff535470116e16"
+    "revision": "317dc6ab2cc853e25868c35b2a01ee28"
   },
   {
     "url": "post/产品经理/如何撰写一份BRD.html",
-    "revision": "6e3b963c5a3553bc0500ba5f5cee36e9"
+    "revision": "805d485f43bef30a01657098e4c72e5d"
   },
   {
     "url": "post/产品经理/智能硬件产品开发流程.html",
-    "revision": "047ed0f8a95a56071a555399cbbd1273"
+    "revision": "42a16e47bbfe4eb00ab61d2359eda05f"
   },
   {
     "url": "post/产品经理/智能硬件产品经理的技术要求.html",
-    "revision": "63a362bf80a030a6554686394ae87243"
+    "revision": "437d5dd20c603676dbf5b35e7479f686"
   },
   {
     "url": "post/产品经理/画图基础.html",
-    "revision": "5edf81a65f6fc17a9ee050f1c77d1eb6"
+    "revision": "6b33eca5f0638d7f259bf8fa10f75574"
   },
   {
     "url": "post/前端/CSS学习笔记.html",
-    "revision": "163ccb83189ce7191645394ce5554f7e"
+    "revision": "e8d7d4e34986fa480b801c319deee4e1"
   },
   {
     "url": "post/前端/HTML学习笔记.html",
-    "revision": "d5265785d65b7c7a561ebfb1c9898356"
+    "revision": "998e11cc4433b9d2820e5c0754bad60c"
   },
   {
     "url": "post/前端/JavaScript学习笔记.html",
-    "revision": "446d4afec7ff899ebb308a96cf6afa5b"
+    "revision": "a6945a2fc21444a75f97a657e4ecc565"
   },
   {
     "url": "post/前端/Node.js和npm的安装与卸载（MacOS）.html",
-    "revision": "b09ced8a2d79d300cbcc10a879dc8c9d"
+    "revision": "28ecb07e5e8567111c9033766c121d34"
   },
   {
     "url": "post/前端/前端开发-环境搭建.html",
-    "revision": "3d625ee232e7f0a39527699ad2093540"
+    "revision": "a98a34827f133cb96778eec73704278d"
   },
   {
     "url": "post/前端/自适应网页设计.html",
-    "revision": "df2b09eb1d8bff55cfcb8c77f26a74e7"
+    "revision": "e857a6f878c4d1613d3213f648ce076a"
   },
   {
     "url": "post/命令行/命令行基本操作.html",
-    "revision": "8b55699ba07730241ca663b6959da18e"
+    "revision": "3e827fdaf9b729d52d5b88b926422334"
   },
   {
     "url": "post/嵌入式开发/CubeMX的一些坑.html",
-    "revision": "6e332790de73e9cb2b23921a1b02400c"
+    "revision": "f1cb7372df83761266cbfd2ee7ae40a3"
   },
   {
     "url": "post/嵌入式开发/HAL系列教程1—GPIO.html",
-    "revision": "82f8aaa7c995eb72adf4ed3b359e2e91"
+    "revision": "7a145c8e4080b3e62555f6efcab98a50"
   },
   {
     "url": "post/嵌入式开发/KeilMDK配置指南.html",
-    "revision": "e7e1e11ee295b06da953a804e493a5fe"
+    "revision": "25a66b14e151a55740885a71644a64f0"
   },
   {
     "url": "post/嵌入式开发/PlatformIO—一站式嵌入式开发工具.html",
-    "revision": "7e102e882dc1d2580745f0f20e0955ba"
+    "revision": "c2e322ecd1aa09a6844c20fb26f95095"
   },
   {
     "url": "post/嵌入式开发/PlatformIO搭配CubeMX食用.html",
-    "revision": "22e741f3f2ec011c2f6bd056077cd61f"
+    "revision": "0746e99c74489fe51d37ca3179302b95"
   },
   {
     "url": "post/嵌入式开发/STM32模块设计-LED.html",
-    "revision": "dc688160a7417a359edceec24a93aaeb"
+    "revision": "f43bcd112a6675b9f889fd8ba8c44eac"
   },
   {
     "url": "post/嵌入式开发/STM32的启动模式.html",
-    "revision": "321ba3dad030aeca8bca72dab40223e4"
+    "revision": "08e69f96460940bd50e3dc50c2278a13"
   },
   {
     "url": "post/微信小程序/BookJourney-二手书商城.html",
-    "revision": "ce314610e128607d642992526ebbe563"
+    "revision": "5ae682eca3d6a9009e74b03b670774ff"
   },
   {
     "url": "post/摘录/Producter.html",
-    "revision": "5deeb62330b5974297dcd5d60bb0b09c"
+    "revision": "b9bacbeaa6cc06143be14ee0f50971de"
   },
   {
     "url": "post/摘录/一个人的朝圣.html",
-    "revision": "118102ff67d40d5d18ecc422aa0b3ae4"
+    "revision": "5207f85d545f0af7d8955338c83d9795"
   },
   {
     "url": "post/摘录/一九八四.html",
-    "revision": "7463f100f49dc0dcc8ddfeaa89750e7e"
+    "revision": "54ce52f5873d60f55be3edc05973752b"
   },
   {
     "url": "post/摘录/一只特立独行的猪.html",
-    "revision": "1d8315650ea578513460ac1032221b04"
+    "revision": "ff6d693072d0cb67e905bbf75ad1f7d4"
   },
   {
     "url": "post/摘录/万万没想到.html",
-    "revision": "22701fda303d40ab348928d4f08577a5"
+    "revision": "4ef83cac21e50c8ec021fbc7bd6f0b2d"
   },
   {
     "url": "post/摘录/万历十五年.html",
-    "revision": "0e858af89293182accacefe13704c6e3"
+    "revision": "1d7abc543b82eaf26fa9f0ac060d6d78"
   },
   {
     "url": "post/摘录/三体.html",
-    "revision": "4e456ae671c8c02096f25804c3c0f3d3"
+    "revision": "e0fa77f80438abe1752505afc3cd6e57"
   },
   {
     "url": "post/摘录/且听风吟.html",
-    "revision": "52bd21259cd6f33dfdc218c4ce058bf5"
+    "revision": "f5bc5ecb930e55b0585aa7ebbf5bc89f"
   },
   {
     "url": "post/摘录/世界上有趣的事太多.html",
-    "revision": "1c7dae1dbb2432b757616d88b0c75ceb"
+    "revision": "bcd96acef5f0b4681878521f193a49d4"
   },
   {
     "url": "post/摘录/东西文化及其哲学.html",
-    "revision": "7457997f90a794187fbeac1a88be2dc2"
+    "revision": "28d1ef507db21f8035c4688f266a224e"
   },
   {
     "url": "post/摘录/中国，少了一味药.html",
-    "revision": "4408ff056f7498c32a1638982a52665c"
+    "revision": "34c3bdfff5b1dfac5811069d2967da61"
   },
   {
     "url": "post/摘录/中国哲学史大纲.html",
-    "revision": "54b5dae03c4d7c9e77828b2806ef9298"
+    "revision": "105282a6655018eae402725d5f6eafc9"
   },
   {
     "url": "post/摘录/乌合之众.html",
-    "revision": "f6f2f39156e39075760304bb46efc38e"
+    "revision": "ac40ce32169d7374a927eebe8c2bd258"
   },
   {
     "url": "post/摘录/先知.html",
-    "revision": "55614dfd74e1466c5f45b0aa3e98fbcd"
+    "revision": "6424117dc89477164f6fda0e611f3111"
   },
   {
     "url": "post/摘录/关于审美.html",
-    "revision": "bfbb7e831d505eb54c0c8051c5adcb2c"
+    "revision": "648affbe0e38039061b63d9b357804e8"
   },
   {
     "url": "post/摘录/刘慈欣作品集.html",
-    "revision": "e3f2804d112bda77a43a76d255be485c"
+    "revision": "68d2affc865557b3e6d47fb5d94179f4"
   },
   {
     "url": "post/摘录/创业时，我们在知乎聊什么.html",
-    "revision": "2a24d77c05e44816976b3272762ed0c5"
+    "revision": "01e856e62da6b2adcb13360dff657994"
   },
   {
     "url": "post/摘录/创造力：心流与创新心理学.html",
-    "revision": "22feb04de724d01f3cf2bf84fd33d192"
+    "revision": "9b0e76f419fc05a54369826719155390"
   },
   {
     "url": "post/摘录/动物农场.html",
-    "revision": "3148fb46219f6251b638f45135f419b3"
+    "revision": "34eab81143fb535d9b4f72fecc8b55df"
   },
   {
     "url": "post/摘录/博客十年.html",
-    "revision": "e823ca941fbed1ad7f5482c3c268650a"
+    "revision": "880294556d18f21a7538bf83d081bbb6"
   },
   {
     "url": "post/摘录/双城记.html",
-    "revision": "6e734a08dbc6c836410a1e1177d54e8a"
+    "revision": "65b36eefdd6d2c7257421d17f05c2625"
   },
   {
     "url": "post/摘录/反脆弱：从不确定性中获益.html",
-    "revision": "dad41bb28bc509ae10e10ecb6a223829"
+    "revision": "ecaafec82247e78e3aec3f68438e7dd5"
   },
   {
     "url": "post/摘录/基督山伯爵.html",
-    "revision": "f3c73ce5589bd84ff022c454bde451e2"
+    "revision": "1a4a4a0256143ae9509a8fbfc144525f"
   },
   {
     "url": "post/摘录/失控.html",
-    "revision": "fef79f318fa8ef98f6a7aaab2148fadc"
+    "revision": "549d93f5a0ad0a511622c251b88f91f1"
   },
   {
     "url": "post/摘录/如何成为一个有趣的人.html",
-    "revision": "31472d454b0955cc36d8ae162704b25d"
+    "revision": "aeb761749d295588ed0ab0dffedc841f"
   },
   {
     "url": "post/摘录/富爸爸，穷爸爸.html",
-    "revision": "18cb91b5483d60ea961cff520eae936b"
+    "revision": "8285cfbaf8128d3ce9ba2b18e76c22fb"
   },
   {
     "url": "post/摘录/小岛经济学.html",
-    "revision": "74bc060905f3944fae9ff576f7b7b9e1"
+    "revision": "b0a95a69971f8216048bb6a4996cd9bd"
   },
   {
     "url": "post/摘录/岛上书店.html",
-    "revision": "450a8129ad8b37253a46cdaa770c6303"
+    "revision": "f13e328ec444dd26b2a8fa01f2f95888"
   },
   {
     "url": "post/摘录/当我谈跑步时我谈些什么.html",
-    "revision": "809105da2ec26706abff065a32dc5f00"
+    "revision": "c87aae5bf1b551994acb4c2949bef96d"
   },
   {
     "url": "post/摘录/德米安：彷徨少年时.html",
-    "revision": "497405f6149f8d4ff51d8148f8d76266"
+    "revision": "f37793538ef9197be26f0885625b0958"
   },
   {
     "url": "post/摘录/挪威的森林.html",
-    "revision": "2b25815fb9337fe6eba2c6fa3459f8ff"
+    "revision": "46af007be06346441f541f53fdd311e3"
   },
   {
     "url": "post/摘录/沉默的大多数.html",
-    "revision": "44d526e4aa8a0bf581398e7281a9431d"
+    "revision": "202f7f8dff830a5d30bb272041ed8eba"
   },
   {
     "url": "post/摘录/沙与沫.html",
-    "revision": "080d16a0efcb8f29ee52e94de08d17e8"
+    "revision": "0b0c8d07241defc2c62e0078867a6399"
   },
   {
     "url": "post/摘录/活着.html",
-    "revision": "e9de280cf669d5a36bf693bf73fd5b36"
+    "revision": "a8c262704e60da4693dd6cd48a619635"
   },
   {
     "url": "post/摘录/游戏化教育：改变互联网教育的创新战略.html",
-    "revision": "43a88963e1d59810063126e22899e778"
+    "revision": "387d430371ed2e8767e7eee59599aad4"
   },
   {
     "url": "post/摘录/爱因斯坦的梦.html",
-    "revision": "c2095302371f881d8da954d56a7a3185"
+    "revision": "ec0761918d7825d2495e5bd211158b4a"
   },
   {
     "url": "post/摘录/独裁者手册.html",
-    "revision": "3589e2130e48971014e9739c356e07e2"
+    "revision": "d91f69d1ab77f13852dcf0d3a6b66dcd"
   },
   {
     "url": "post/摘录/王小波作品集（未归纳）.html",
-    "revision": "75200504d6470840045c7072b7c65210"
+    "revision": "263a1fa1db206d5b092bbfb1224df0b4"
   },
   {
     "url": "post/摘录/生死疲劳.html",
-    "revision": "aea4338f000ecf0a7063283674fa98a8"
+    "revision": "48622d49b08978f3b74fc52923fb157c"
   },
   {
     "url": "post/摘录/白鹿原.html",
-    "revision": "0c44a59bda87edb85232ce05862ba26e"
+    "revision": "1fc8f342b6586ef86d1bec54879ed7a9"
   },
   {
     "url": "post/摘录/百年孤独.html",
-    "revision": "d6aa0d3d329604d761625690cf18bf5f"
+    "revision": "ff9ddfb7be19ce28c548b1c7aca115c9"
   },
   {
     "url": "post/摘录/社会契约论.html",
-    "revision": "714b8f2d31ebfb61aaaa1b311a2f294b"
+    "revision": "23aada1362f12c6f0d899787650b74f6"
   },
   {
     "url": "post/摘录/肖申克的救赎.html",
-    "revision": "4aababe878b189a59dccff6cbcfd0341"
+    "revision": "d0364c1a0c59d8cdc28c1bf853f936f6"
   },
   {
     "url": "post/摘录/蝇王.html",
-    "revision": "bd2baf076191e6946254b03d1e7d463e"
+    "revision": "47bca80937c58261b39928e0d37a8f92"
   },
   {
     "url": "post/摘录/追风筝的人.html",
-    "revision": "fb74ffe2c3fe4ba47599f951900e2a7a"
+    "revision": "ed4494c4ebdfafd7daaac26e6f226b30"
   },
   {
     "url": "post/摘录/黄金时代.html",
-    "revision": "1894261eacdd195a00845dbab839114e"
+    "revision": "37dde6a0959f778fa32ad2512cddd47b"
   },
   {
     "url": "post/摘录/黑客与画家.html",
-    "revision": "b69be590b40cde30de59c435c35119cf"
+    "revision": "e71ba9fb5fba569c49b64f3b7e1c7eb8"
   },
   {
     "url": "post/操作系统/Bash基础.html",
-    "revision": "06e278777c1ac86b37aa4b2627b4080a"
+    "revision": "ba12350e0dbe3eda6d69d66a3ff3e32e"
   },
   {
     "url": "post/操作系统/CentOS配置OhMyZsh.html",
-    "revision": "4b9c93d44a72e22bbfb5af0079e228f9"
+    "revision": "a6ac0b84d37561af47fd92e9b819f75b"
   },
   {
     "url": "post/操作系统/Docker学习笔记.html",
-    "revision": "86b9f9b0ede246d175c0dc667bec37be"
+    "revision": "9d6792f6bf0c1e7b79e22ad16dd68745"
   },
   {
     "url": "post/操作系统/Linux基础（CentOS）.html",
-    "revision": "8ab21390a06b7659169d06ff2b15a25b"
+    "revision": "b6d603d6d1df053ca9f1cfb8fb1a6b6f"
   },
   {
     "url": "post/操作系统/从零搭建视觉开发环境（Docker-Linux）.html",
-    "revision": "8fd3ebd2310b118da2313986fe33faa0"
+    "revision": "8c1de9a9b2654e221fe296b163321c89"
   },
   {
     "url": "post/操作系统/使用VSCode进行远程开发.html",
-    "revision": "c3ea25d06009e5623aa4ab7be2abd5c5"
+    "revision": "663dbebfd7d22f4b1e0d421cc8a58659"
   },
   {
     "url": "post/操作系统/如何快速制作一个启动盘.html",
-    "revision": "ee16a3f57f9366fd9e923e78049cdf8b"
+    "revision": "10b139e1e8c4bfa3f64d8b1e78199e34"
   },
   {
     "url": "post/无人机/N3参数调试.html",
-    "revision": "c19983baac753c3f45fe189e88b470d9"
+    "revision": "8cab60644df60110b85e4e77f859d176"
   },
   {
     "url": "post/树莓派/云打印服务器的搭建.html",
-    "revision": "273b3613598b27fbbd267f89e6ec5171"
+    "revision": "8995ab973a16b0960e1dc91254ee0e8e"
   },
   {
     "url": "post/比赛经历/Hack.init().html",
-    "revision": "c23b947d1916e524f44d4b32d9695a1c"
+    "revision": "ad307288f412b760c3ba9ee79250af22"
   },
   {
     "url": "post/比赛经历/THEHack2019.html",
-    "revision": "f1db486b342a97c39ed25038a5c40490"
+    "revision": "88b6a3a8e619a597df17bab5288163fa"
   },
   {
     "url": "post/比赛经历/焊接比赛：培训及总结.html",
-    "revision": "06afbf329eb5e0bb549ff462be4d2ae2"
+    "revision": "1304739a4e8e098025227056fe635784"
   },
   {
     "url": "post/活动策划/RM校内赛-前期策划.html",
-    "revision": "0958703e2db41a1b5072ebe35b8c64dd"
+    "revision": "a0c41948ada2fe71e43b79848117afc7"
   },
   {
     "url": "post/活动策划/无人驾驶比赛.html",
-    "revision": "e0279fc899c8e33941a3f88ef8efe31b"
+    "revision": "56c8e73f6c500a7c892d7904f524b65b"
   },
   {
     "url": "post/生活方式/华广爬楼指北.html",
-    "revision": "0605e1899101311b3f05db9d83dc3bb5"
+    "revision": "028a50605fc7f489005f1ff219770dde"
   },
   {
     "url": "post/生活方式/科技X的访谈.html",
-    "revision": "3b52e4d7458c82dd2f665e0774afffcd"
+    "revision": "b03339ec3dce39a44605ec702df1e22d"
   },
   {
     "url": "post/生活方式/英语六级-备考.html",
-    "revision": "a9dbe20569d0c5106c3c1a8782485e14"
+    "revision": "bced0fcdcf15db473a6619450a325307"
   },
   {
     "url": "post/生活方式/读《黑客与画家》.html",
-    "revision": "2f1f4e6406c9f07f0b88f13b3543cdfb"
+    "revision": "7ef6edb2dc257cbebbb1df3b226de62b"
   },
   {
     "url": "post/生活方式/谈谈未来的职业选择.html",
-    "revision": "ffe31639da64450b8327bac14b576710"
+    "revision": "959d17082646dc4776385696393f99b9"
   },
   {
     "url": "post/电路设计/AD使用Git的注意事项.html",
-    "revision": "aa4fa4c136de14688301e5d9fabfb461"
+    "revision": "0e62384a01bd2a849c8be576427f3aae"
   },
   {
     "url": "post/电路设计/AD入门系列一：环境搭建.html",
-    "revision": "ab52d0560dcc9382fa4e98b8b692a683"
+    "revision": "64a2bee630519855ad6218eee8420e04"
   },
   {
     "url": "post/电路设计/AD入门系列三：原理图绘制.html",
-    "revision": "5de89513bbe7499e83ae19a7d731ea5f"
+    "revision": "ffd24c7a924eade6c30347877a1c2c11"
   },
   {
     "url": "post/电路设计/AD入门系列二：基础知识.html",
-    "revision": "d9fc53da2926faeecf862760b42fb065"
+    "revision": "178c89d4508e4353945098c2797a6668"
   },
   {
     "url": "post/电路设计/AD入门系列五：库文件绘制.html",
-    "revision": "775f318d1e1fba2742ac2b7c1fa5b4eb"
+    "revision": "998fd339716a3c801da134b39ab5d37c"
   },
   {
     "url": "post/电路设计/AD入门系列四：PCB绘制.html",
-    "revision": "afea83eff17dbff0f0045db81b217b71"
+    "revision": "60cad42d08eff01d0d3dc686eea549be"
   },
   {
     "url": "post/电路设计/AD小技巧整理.html",
-    "revision": "4b1d68e87b47d41d9dda9b39101361f1"
+    "revision": "a49bcfb807e221a698fb7d2e324355a9"
   },
   {
     "url": "post/电路设计/PCB元件布局规范.html",
-    "revision": "e54cb69580608368cfafe3bf29aea741"
+    "revision": "68335be1575c5fb6db8ecbdc59466a55"
   },
   {
     "url": "post/电路设计/PCB名片设计.html",
-    "revision": "c679e239e42898e6d6e722d7537bbd20"
+    "revision": "623813da061107464bbfbce6034fa440"
   },
   {
     "url": "post/电路设计/PCB布线规范.html",
-    "revision": "2ae808ac5c614661811b202c130228ab"
+    "revision": "5b5cbd3353cb0876c6f0910279fc6181"
   },
   {
     "url": "post/电路设计/SwiftCtrl-蓝牙手柄.html",
-    "revision": "1e37fe3491e8c563b8f52f79a0e06d54"
+    "revision": "4dfe688f235520b8ef1de93d76230ec3"
   },
   {
     "url": "post/电路设计/TinyDVR-小巧身材，满载动力.html",
-    "revision": "c91322d90cfc9e508b705a10607d1362"
+    "revision": "8490c6721125e39f8b22abda51acd581"
   },
   {
     "url": "post/电路设计/ZenDriver-高性能的电机驱动.html",
-    "revision": "7f6fe6432b57e2f00ad62c4b7cf0c801"
+    "revision": "a1b2094914297f5cc376540ec278d8f0"
   },
   {
     "url": "post/电路设计/函数思想在电路设计中的应用.html",
-    "revision": "6460f99e061ae4a29c9f4f2a96293222"
+    "revision": "3b649394498161882e47c2323f30f780"
   },
   {
     "url": "post/电路设计/单片机最小系统设计—基于STM32（F1）.html",
-    "revision": "64632927c18fa538b041d97fd9e324eb"
+    "revision": "58eec331bfa4c3a2d7be3b5e076176fa"
   },
   {
     "url": "post/电路设计/基本元器件选型.html",
-    "revision": "959e93f5d193c530bb8ea705d7badc5f"
+    "revision": "39c6074289f76b6f8356a90677d6a3db"
   },
   {
     "url": "post/电路设计/电源的设计.html",
-    "revision": "eb4c77e15756ef7bb5e25ef792a41ffd"
+    "revision": "65a4fa5cbec5566a3f8cf14812cfd057"
   },
   {
     "url": "post/电路设计/自制CMSIS-DAP.html",
-    "revision": "9c761717aa1f65c4bf1acdfa75339db2"
+    "revision": "5ecbc70fe9e0893b701307bbcc6183d8"
   },
   {
     "url": "post/美食/参考.html",
-    "revision": "c8b2e5fc3296fea3cc67344db89111bb"
+    "revision": "9adef170ee09bb090935fd58a594b58a"
   },
   {
     "url": "post/美食/极简面包-烘培.html",
-    "revision": "5c5cfbdecb0d0ebdb928a7cd6693c4e2"
+    "revision": "80a97e419943b73f5f423e8df24d37f2"
   },
   {
     "url": "post/言论/个人发展.html",
-    "revision": "4669c55986f159293970de95c9b2eb47"
+    "revision": "9c200f503559e9ee75b626af8f73bc6b"
   },
   {
     "url": "post/言论/写作.html",
-    "revision": "a0c64507035829b7730bbf2ac451209c"
+    "revision": "ace9bd376ece3e2ea9b9ede9087ad67b"
   },
   {
     "url": "post/言论/创业.html",
-    "revision": "6c1029fa8c7dff0870c40df5c37aec2a"
+    "revision": "4645b44cfdba4ddca628ba128126330a"
   },
   {
     "url": "post/言论/财富.html",
-    "revision": "62778e87c9eacc4538f240ec98f124bf"
+    "revision": "0e1c7d13d93cf489188e2de6d3e567c6"
   },
   {
     "url": "post/音乐/不能说的秘密.html",
-    "revision": "6d23e21274698818b20cfa62a71acc93"
+    "revision": "cc82479185919f5a953906d1a4c805a5"
   },
   {
     "url": "post/音乐/哥德堡变奏曲.html",
-    "revision": "ec8fd360dddfe28f1f600966f0e9b3c1"
+    "revision": "7b9a5afd56ce4078410d7737abd39b83"
   },
   {
     "url": "post/高效工作/RSS-高效率的阅读方式.html",
-    "revision": "0ee96f9f2d5494b4af358b57d1973f57"
+    "revision": "266bae3d371ab1c3445dee145835fc76"
   },
   {
     "url": "post/高效工作/VSCode生产力指南-JupyterNotebook.html",
-    "revision": "656d6ea010cc064cb60f462a6e9046c2"
+    "revision": "cf9184b21af1dc176304a3aaea25754b"
   },
   {
     "url": "post/高效工作/VSCode生产力指南-环境配置.html",
-    "revision": "40c0d41d0e913e04e5590a9fce7d6a54"
+    "revision": "d8d90516e9ce25a4e2df4e790dc49bdc"
   },
   {
     "url": "post/高效工作/博客转至GitBook.html",
-    "revision": "75fac8763835ea623ef820c3aab294be"
+    "revision": "199d6eca2b7c02fc3744b47ab321df90"
   },
   {
     "url": "post/高效工作/回归博客.html",
-    "revision": "77967d6c64c99b77b727533ad1209bfa"
+    "revision": "649c3ec4085b541da95003cb45951dd8"
   },
   {
     "url": "post/高效工作/在浏览器上运行VScode（code-server）.html",
-    "revision": "d819003a2fed904d95763e24ab9091e3"
+    "revision": "1dd4b181e2046744886dc7b3b0859d24"
   },
   {
     "url": "post/高效工作/基于docsify搭建个人Wiki.html",
-    "revision": "4ca519a31b1b5fff53f63b015243d408"
+    "revision": "b11c6aaf8216ac84034e41d235ff0a2e"
   },
   {
     "url": "post/高效工作/如何保存易逝的文字.html",
-    "revision": "979169a481aa98a0253deb62e72c2c3b"
+    "revision": "2595907bd58c0f4e32c2c5869190cf6f"
   },
   {
     "url": "post/高效工作/如何配一台电脑.html",
-    "revision": "9d83c4d2ea4016bcd56414785754f5ba"
+    "revision": "96db6cf4709a5ad110ec2cd07d93e33a"
   },
   {
     "url": "post/高效工作/定制SublimeText3.html",
-    "revision": "3776c81092dd7e5df135658c0e629e3f"
+    "revision": "40dbc911384b88b90532d1b2e2507abc"
   },
   {
     "url": "post/高效工作/把回忆放心交给GooglePhotos.html",
-    "revision": "184df0e38c0e5d4360e92d5a6088ee76"
+    "revision": "b1f7c0c7485e4a11526f10581a0bdb42"
   },
   {
     "url": "post/高效工作/文章排版规范.html",
-    "revision": "123311d95d89d738b96a2209679c0d5c"
+    "revision": "21f52545e55920325866b177acad1c3c"
   },
   {
     "url": "post/高效工作/构建知识管理系统.html",
-    "revision": "224ee5a5a930637b6ad8505d43971dfe"
+    "revision": "5b1c20612bc20372ccf48f2afd685b83"
   },
   {
     "url": "post/高效工作/浅谈Bitcron博客平台.html",
-    "revision": "97aa6731a7edd63f3ad5f72d8d1b43de"
+    "revision": "fe97c8d41f89df077b2445b722feb734"
   },
   {
     "url": "post/高效工作/用Graphviz绘制关系图.html",
-    "revision": "183862a8bafb69ff55aa4816f3bd0516"
+    "revision": "218777fda0c6defacfb8c1a987357510"
   },
   {
     "url": "Tools.html",
-    "revision": "03094152dc57ecf34db4658ae02968ff"
+    "revision": "6f056baec3fab578fcec0953bcdc8b7f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
